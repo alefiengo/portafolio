@@ -1,38 +1,93 @@
 baseURL = "https://alefiengo.github.io/portafolio/"
-title = 'José Alejandro Fiengo – Portafolio'
-languageCode = 'es'
-theme = 'PaperMod'
-relativeURLs = true
-canonifyURLs = true
-enableRobotsTXT = true
+title = "José Alejandro Fiengo – Portafolio"
+languageCode = "es"
+theme = "PaperMod"
 
+# Configuración de URLs
+relativeURLs = false
+canonifyURLs = false
+
+# Activaciones útiles
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
+
+# Configuración de marcado
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
+    lineNos = true
+    codeFences = true
+
+# Parámetros de PaperMod
 [params]
   author = "José Alejandro Fiengo"
   defaultTheme = "auto"
+  disableThemeToggle = false
+
   showReadingTime = true
+  showWordCount = true
   ShowCodeCopyButtons = true
 
+  showBreadCrumbs = true
+  showPostNavLinks = true
+  showSearchPage = true
+
+  DateFormat = "2 January 2006"
+
+  # Página de inicio (solo visible si no usas layouts/index.html personalizado)
+  [params.homeInfoParams]
+    Title = "Hola, soy José Alejandro Fiengo"
+    Content = "Desarrollador fullstack especializado en microservicios, CI/CD y soluciones escalables. Bienvenido a mi portafolio profesional."
+
+  # Redes sociales
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/alefiengo"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/jos%C3%A9-alejandro-fiengo-vega-383560165"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:alefiengo@gmail.com"
+
+# Menú principal
 [menu]
   [[menu.main]]
     identifier = "sobre-mi"
     name = "Sobre mí"
-    url = "/sobre-mi"
+    url = "/sobre-mi/"
     weight = 1
 
   [[menu.main]]
     identifier = "proyectos"
     name = "Proyectos"
-    url = "/proyectos"
+    url = "/proyectos/"
     weight = 2
 
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = "/blog"
+    url = "/blog/"
     weight = 3
 
   [[menu.main]]
     identifier = "contacto"
     name = "Contacto"
-    url = "/contacto"
+    url = "/contacto/"
     weight = 4
+
+# Taxonomías
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Salidas del home (para JSON de búsqueda y RSS)
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -1,8 +1,10 @@
-image: registry.gitlab.com/pages/hugo:latest
+image:
+  name: klakegg/hugo:0.140.0-ext-alpine
+  entrypoint: [""]
 
 pages:
   script:
-    - hugo
+    - hugo --minify
   artifacts:
     paths:
       - public

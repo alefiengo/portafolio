@@ -3,6 +3,9 @@ image:
   entrypoint: [""]
 
 pages:
+  before_script:
+    - apk add --no-cache git
+    - git submodule update --init --recursive
   script:
     - hugo --minify
   artifacts:

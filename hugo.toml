@@ -1,3 +1,35 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://alefiengo.gitlab.io/portafolio/'
+languageCode = 'es'
+title = 'José Alejandro Fiengo – Portafolio'
+theme = 'PaperMod'
+
+[params]
+  author = "José Alejandro Fiengo"
+  defaultTheme = "auto"
+  showReadingTime = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    identifier = "sobre-mi"
+    name = "Sobre mí"
+    url = "/sobre-mi/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "proyectos"
+    name = "Proyectos"
+    url = "/proyectos/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contacto"
+    name = "Contacto"
+    url = "/contacto/"
+    weight = 4

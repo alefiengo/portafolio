@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on José Alejandro Fiengo – Portafolio</title>
+    <link>http://localhost:1313/portafolio/tags/</link>
+    <description>Recent content in Tags on José Alejandro Fiengo – Portafolio</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portafolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafana</title>
+      <link>http://localhost:1313/portafolio/tags/grafana/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/tags/grafana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Helm</title>
+      <link>http://localhost:1313/portafolio/tags/helm/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/tags/helm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:1313/portafolio/tags/kubernetes/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Loki</title>
+      <link>http://localhost:1313/portafolio/tags/loki/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/tags/loki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Observabilidad</title>
+      <link>http://localhost:1313/portafolio/tags/observabilidad/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/tags/observabilidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prometheus</title>
+      <link>http://localhost:1313/portafolio/tags/prometheus/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops</title>
+      <link>http://localhost:1313/portafolio/tags/devops/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microk8s</title>
+      <link>http://localhost:1313/portafolio/tags/microk8s/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/tags/microk8s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/portafolio/tags/ubuntu/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

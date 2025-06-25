@@ -13,23 +13,23 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "sobre-mi"
     name = "Sobre mí"
-    url = "/sobre-mi/"
+    url = "/sobre-mi"
     weight = 1
 
   [[menu.main]]
     identifier = "proyectos"
     name = "Proyectos"
-    url = "/proyectos/"
+    url = "/proyectos"
     weight = 2
 
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = "/blog/"
+    url = "/blog"
     weight = 3
 
   [[menu.main]]
     identifier = "contacto"
     name = "Contacto"
-    url = "/contacto/"
+    url = "/contacto"
     weight = 4

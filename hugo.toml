@@ -54,7 +54,7 @@ enableEmoji = true
 
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:alefiengo@gmail.com"
+    url = "mailto:jose.fiengo.vega@gmail.com"
 
 # Menú principal
 [menu]

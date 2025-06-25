@@ -1,0 +1,16 @@
+# Archivos Hugo generados
+/public/
+/resources/
+
+# Archivos temporales
+.DS_Store
+*.swp
+*.swo
+
+# Archivos de sistema y editores
+.idea/
+.vscode/
+*.log
+
+# Archivos Hugo auxiliares
+hugo_stats.json

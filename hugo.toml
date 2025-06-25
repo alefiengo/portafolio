@@ -2,8 +2,6 @@ baseURL = "https://portafolio-eb86f1.gitlab.io/"
 languageCode = 'es'
 title = 'José Alejandro Fiengo – Portafolio'
 theme = 'PaperMod'
-relativeURLs = false
-canonifyURLs = true
 
 [params]
   author = "José Alejandro Fiengo"

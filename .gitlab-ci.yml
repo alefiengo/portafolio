@@ -1,5 +1,5 @@
 image:
-  name: klakegg/hugo:0.140.0-ext-alpine
+  name: hugomods/hugo:exts
   entrypoint: [""]
 
 pages:

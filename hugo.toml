@@ -1,8 +1,10 @@
 baseURL = "https://alefiengo.github.io/portafolio/"
+relativeURLs = true
+canonifyURLs = true
 languageCode = 'es'
+enableRobotsTXT = true
 title = 'José Alejandro Fiengo – Portafolio'
 theme = 'PaperMod'
-enableRobotsTXT = true
 
 [params]
   author = "José Alejandro Fiengo"

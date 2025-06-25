@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>José Alejandro Fiengo – Portafolio</title>
-    <link>http://localhost:1313/portafolio/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on José Alejandro Fiengo – Portafolio</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>es</language>
     <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portafolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contacto</title>
-      <link>http://localhost:1313/portafolio/contacto/</link>
+      <link>http://localhost:1313/contacto/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portafolio/contacto/</guid>
+      <guid>http://localhost:1313/contacto/</guid>
       <description>&lt;h2 id=&#34;quieres-ponerte-en-contacto-conmigo&#34;&gt;¿Quieres ponerte en contacto conmigo?&lt;/h2&gt;
 &lt;p&gt;Estoy abierto a colaborar en proyectos técnicos, consultorías, mentorías o simplemente intercambiar ideas sobre desarrollo de software, arquitectura, CI/CD, Kubernetes y más.&lt;/p&gt;
 &lt;p&gt;Puedes contactarme o seguirme en estas plataformas profesionales:&lt;/p&gt;
@@ -29,9 +29,9 @@ Gracias por visitar mi portafolio profesional.&lt;/p&gt;&lt;/blockquote&gt;</des
     </item>
     <item>
       <title>Proyectos</title>
-      <link>http://localhost:1313/portafolio/proyectos/</link>
+      <link>http://localhost:1313/proyectos/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portafolio/proyectos/</guid>
+      <guid>http://localhost:1313/proyectos/</guid>
       <description>&lt;h2 id=&#34;proyectos-profesionales-destacados&#34;&gt;Proyectos profesionales destacados&lt;/h2&gt;
 &lt;p&gt;Estos son algunos de los proyectos más relevantes en los que he participado recientemente, con foco en arquitectura de software, microservicios y despliegues en Kubernetes.&lt;/p&gt;
 &lt;hr&gt;
@@ -52,25 +52,25 @@ Gracias por visitar mi portafolio profesional.&lt;/p&gt;&lt;/blockquote&gt;</des
     </item>
     <item>
       <title>Sobre mí</title>
-      <link>http://localhost:1313/portafolio/sobre-mi/</link>
+      <link>http://localhost:1313/sobre-mi/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portafolio/sobre-mi/</guid>
+      <guid>http://localhost:1313/sobre-mi/</guid>
       <description>&lt;h2 id=&#34;josé-alejandro-fiengo-vega&#34;&gt;José Alejandro Fiengo Vega&lt;/h2&gt;
 &lt;p&gt;Soy un desarrollador Fullstack con más de 12 años de experiencia liderando y ejecutando proyectos de software en entornos altamente exigentes. A lo largo de mi carrera he participado en el diseño, construcción y mantenimiento de soluciones tecnológicas para empresas de telecomunicaciones, entidades gubernamentales y plataformas de servicios digitales.&lt;/p&gt;
 &lt;p&gt;Mi enfoque profesional combina la excelencia técnica con una visión arquitectónica sólida y un compromiso con la mejora continua. Trabajo aplicando principios de diseño limpio, buenas prácticas de ingeniería de software y metodologías modernas de integración y despliegue continuo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Guía profesional para desplegar Prometheus, Grafana y Loki en Kubernetes con Helm</title>
-      <link>http://localhost:1313/portafolio/blog/observabilidad-helm/</link>
+      <link>http://localhost:1313/blog/observabilidad-helm/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portafolio/blog/observabilidad-helm/</guid>
+      <guid>http://localhost:1313/blog/observabilidad-helm/</guid>
       <description>Despliegue de stack de observabilidad en Kubernetes con Helm charts oficiales.</description>
     </item>
     <item>
       <title>Guía profesional para instalar y configurar MicroK8s en Ubuntu 24.04 LTS</title>
-      <link>http://localhost:1313/portafolio/blog/microk8s-en-ubuntu/</link>
+      <link>http://localhost:1313/blog/microk8s-en-ubuntu/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portafolio/blog/microk8s-en-ubuntu/</guid>
+      <guid>http://localhost:1313/blog/microk8s-en-ubuntu/</guid>
       <description>Paso a paso para preparar un entorno local de Kubernetes con MicroK8s.</description>
     </item>
   </channel>

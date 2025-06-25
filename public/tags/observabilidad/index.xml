@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Observabilidad on José Alejandro Fiengo – Portafolio</title>
-    <link>http://localhost:1313/portafolio/tags/observabilidad/</link>
+    <link>http://localhost:1313/tags/observabilidad/</link>
     <description>Recent content in Observabilidad on José Alejandro Fiengo – Portafolio</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>es</language>
     <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portafolio/tags/observabilidad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/observabilidad/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Despliegue de Observabilidad con Prometheus, Grafana y Loki en Kubernetes usando Helm</title>
-      <link>http://localhost:1313/portafolio/blog/observabilidad-helm/</link>
+      <title>Guía profesional para desplegar Prometheus, Grafana y Loki en Kubernetes con Helm</title>
+      <link>http://localhost:1313/blog/observabilidad-helm/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portafolio/blog/observabilidad-helm/</guid>
-      <description>Cómo implementar un stack de observabilidad completo usando Helm en Kubernetes.</description>
+      <guid>http://localhost:1313/blog/observabilidad-helm/</guid>
+      <description>Despliegue de stack de observabilidad en Kubernetes con Helm charts oficiales.</description>
     </item>
   </channel>
 </rss>

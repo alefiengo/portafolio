@@ -1,5 +1,5 @@
 baseURL = "https://alefiengo.github.io/portafolio/"
-title = "José Alejandro Fiengo – Portafolio"
+title = "José Alejandro Fiengo Vega – Portafolio"
 languageCode = "es"
 theme = "PaperMod"
 
@@ -24,7 +24,7 @@ enableEmoji = true
 
 # Parámetros de PaperMod
 [params]
-  author = "José Alejandro Fiengo"
+  author = "José Alejandro Fiengo Vega"
   defaultTheme = "auto"
   disableThemeToggle = false
 
@@ -40,7 +40,7 @@ enableEmoji = true
 
   # Página de inicio (solo visible si no usas layouts/index.html personalizado)
   [params.homeInfoParams]
-    Title = "Hola, soy José Alejandro Fiengo"
+    Title = "Hola, soy José Alejandro Fiengo Vega"
     Content = "Desarrollador fullstack especializado en microservicios, CI/CD y soluciones escalables. Bienvenido a mi portafolio profesional."
 
   # Redes sociales

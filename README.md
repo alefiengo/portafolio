@@ -1,4 +1,4 @@
-# Portafolio Profesional – José Alejandro Fiengo
+# Portafolio Profesional – José Alejandro Fiengo Vega
 
 Este repositorio contiene mi portafolio profesional, desarrollado con [Hugo](https://gohugo.io/) y desplegado automáticamente en [GitHub Pages](https://pages.github.com/) utilizando el tema [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
 
